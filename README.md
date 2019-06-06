@@ -6,11 +6,17 @@ hardware : MacBookAir 1,1, Core 2 Duo 1.6 13" Original, RAM 2 GB, late 2008
 Last possible OS X : Mac Os X Snow Leopard 10.6.8  = too old !
 notice : UEFI 32 bit !!
 
-How-to: Making a standard Linux distro ISO compatible with 32-bit EFI Macs 
+Download KDE Neon latest
+
 from https://mattgadient.com/2016/07/11/linux-dvd-images-and-how-to-for-32-bit-efi-macs-late-2006-models/
 
+How-to: Making a standard Linux distro ISO compatible with 32-bit EFI Macs 
 
-Download KDE Neon latest
+search "Converting the ISO"
+follow instructions for the ISO conversion
+
+convert KDE Neon ISO
+
 Make USB with Balena-etcher
 
 boot from USB (alt/option + power on)
