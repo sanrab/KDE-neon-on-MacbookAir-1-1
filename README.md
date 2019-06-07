@@ -48,4 +48,11 @@ sudo apt install b43-fwcutter firmware-b43-installer
 
 sudo reboot
 
-works also with external monitor
+what work:
+external monitor
+battery indicator
+keyboard backlight function key
+brightness function key
+
+
+
