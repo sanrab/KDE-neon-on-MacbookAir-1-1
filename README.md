@@ -22,7 +22,8 @@ convert KDE Neon ISO
 Make USB with Balena-etcher
 
 boot from USB (alt/option + power on);
-install (very slow at the beginning due to to drm_kms_helper errors);
+install (very slow at the beginning due to to drm_kms_helper errors); wait
+
 reboot
 
 in Konsole:
@@ -47,3 +48,4 @@ sudo apt install b43-fwcutter firmware-b43-installer
 
 sudo reboot
 
+works also with external monitor
