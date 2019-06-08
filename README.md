@@ -30,7 +30,7 @@ in Konsole:
 
 sudo nano /etc/default/grub
 
-change the line GRUB_CMDLINE_LINUX_DEFAULT="quiet video=SVIDEO-1:d"
+change the line GRUB_CMDLINE_LINUX_DEFAULT="quiet video=SVIDEO-1:d usbcore.autosuspend=-1"
 
 sudo update-grub
 
