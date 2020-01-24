@@ -18,11 +18,13 @@ search "Converting the ISO";
 follow instructions for the ISO conversion
 
 convert KDE Neon ISO
+NOTE: no more necessary. You can use the standard ISO !!
 
 Make USB with Balena-etcher
 
 boot from USB (alt/option + power on);
-install (very slow at the beginning due to to drm_kms_helper errors); wait
+install (very slow at the beginning due to to drm_kms_helper errors); 
+wait
 
 reboot
 
@@ -38,7 +40,7 @@ sudo reboot
 
 now it boots much faster
 
-for BCM4321 wifi:
+for BCM4321 wifi: use a supported external USB wi-fi dongle
 
 in Konsole:
 
